@@ -1,1 +1,1 @@
-# aoj_alogorithm
+# aoj_algorithm
